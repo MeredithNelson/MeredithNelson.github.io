@@ -1,0 +1,29 @@
+body { 
+background-color: #f6eeee; 
+font-family: Courier New, Lucida Console, monotype; 
+font-size: 20px; 
+color: #00008B;
+ 	margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+h1{
+background-color: #f6eeee; 
+font-family: Courier New, Lucida Console, monotype; 
+font-size: 50px;
+font-style: italic;
+color: #FF241B;
+}
+
+h2{
+background-color: #f6eeee; 
+font-family: Courier New, Lucida Console, monotype; 
+font-size: 30px; 
+color: #fc7b77;
+}
+ .redacted {
+   color: #f6eeee;
+   background-color: #f6eeee;
+ }
