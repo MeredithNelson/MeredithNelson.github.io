@@ -1,0 +1,79 @@
+body {
+	font-family: futura;
+	background-color: white;
+	text-align: center;
+
+}
+a {
+	font-family: futura;
+	font-size: 16px;
+	color: seagreen;
+	cursor: pointer;
+	text-align: center;
+}
+
+a:hover {
+	font-size: 20px;
+}
+
+a:active {
+	color: seagreen;
+}
+
+#head {
+	text-align: center;
+	color: purple;
+	font-size: 40px;
+}
+
+
+
+p {
+	font-family: futura;
+	background-color: white;
+	color: seagreen;
+	text-align: center;
+
+}
+
+img {
+	
+	display: block;
+	margin: auto;
+	
+}
+
+#enter {
+	display: block;
+	margin: auto;
+	font-size: 40px;
+}
+
+#enter:hover {
+	font-size: 45px;
+}
+
+.placearray{
+	font-size: 20pt;
+}
+
+button {
+    background-color: seagreen; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: futura;
+}
+
+button:hover {
+	background-color: seagreen;
+	border: none;
+    color: purple;
+    padding: 19.5px 41.6px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    cursor: pointer;
